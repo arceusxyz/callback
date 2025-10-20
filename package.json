@@ -1,5 +1,5 @@
 {
-  "name": "callback-qris",
+  "name": "callback",
   "version": "1.0.0",
   "dependencies": {
     "axios": "^1.7.0",
