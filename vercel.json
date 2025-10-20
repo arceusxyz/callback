@@ -4,6 +4,6 @@
     { "src": "api/*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "api/callback_qris.js" }
+    { "src": "/(.*)", "dest": "api/index.js" }
   ]
 }
